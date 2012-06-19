@@ -1,0 +1,29 @@
+body {
+	margin: 50px auto;
+	text-align:center;
+}
+
+h2.tagtitle {
+	border-bottom: 1px solid #eee;
+	border-top: 1px solid #eee;
+	padding: 10px;
+}
+  
+#photos {
+    width:700px;
+	margin:0 auto;
+}
+  
+.thumb {
+	float: left;
+	margin: 10px;
+}
+  
+.pagenum {
+	background-color: #eee;
+	padding: 5px;
+}
+  
+#pagination {
+	margin: 20px;
+}
